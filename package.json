@@ -1,0 +1,19 @@
+{
+  "name": "user-story-browser",
+  "version": "1.0.0",
+  "description": "Early version JIRA browser built on Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-x-man/user-story-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-x-man/user-story-browser/issues"
+  },
+  "homepage": "https://github.com/the-x-man/user-story-browser#readme"
+}
